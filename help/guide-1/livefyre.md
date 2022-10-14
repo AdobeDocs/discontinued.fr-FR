@@ -1,31 +1,31 @@
 ---
-title: "[!DNL Adobe Livefyre] Fin de service"
-description: Rappel de fin de service Livefyre pour Livefyre et Livefyre Studio.
+title: « Fin de service de [!DNL Adobe Livefyre] »
+description: Rappel de fin de service de Livefyre pour Livefyre et Livefyre Studio.
 source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Adobe Livefyre] Fin de service
+# Fin de service de [!DNL Adobe Livefyre]
 
 >[!IMPORTANT]
 >
->Les clients du dernier jour ont pu accéder à [!DNL Livefyre] était le 30 novembre 2021.
+>Le dernier jour où les clients pouvaient accéder à [!DNL Livefyre] était le 30 novembre 2021.
 
-Changer la dynamique avec les fournisseurs de médias sociaux, y compris [!DNL Facebook] et [!DNL Twitter], ont rendu difficile le fait de continuer à offrir aux clients Adobe une solution de contenu généré par l’utilisateur (UGC) robuste. En raison de ces défis, l&#39;Adobe a pris la difficile décision de mettre fin à la [!DNL Livefyre] service. Les clients du dernier jour pourront accéder à [!DNL Livefyre] est le 30 novembre 2021. Depuis janvier 2021, Adobe travaille avec des clients qui utilisent [!DNL Livefyre] sur une transition en douceur vers des partenaires Adobes de confiance et en recommandant des solutions alternatives. Ce rappel est destiné à assurer la visibilité de la fin de la [!DNL Livefyre] date du service. Adobe s’engage à fournir les éléments nécessaires à une remise en forme. Si vous avez des questions, contactez votre gestionnaire de succès client ou votre gestionnaire de compte.
+La dynamique fluctuante avec les fournisseurs de médias sociaux, y compris [!DNL Facebook] et [!DNL Twitter], complique la poursuite de l’offre d’une solution de contenu créé par l’utilisateur (CGU) robuste aux clients d’Adobe. En raison de ces difficultés, Adobe a pris la difficile décision de mettre fin au service [!DNL Livefyre]. Les clients pourront accéder à [!DNL Livefyre] jusqu’au 30 novembre 2021. Depuis janvier 2021, Adobe collabore avec des clients qui utilisent [!DNL Livefyre] pour assurer une transition en douceur vers des partenaires Adobe de confiance et recommander des solutions alternatives. Ce rappel est destiné à assurer la visibilité de la date de fin de service de [!DNL Livefyre]. Adobe s’engage à fournir les éléments nécessaires à un transfert en douceur. Si vous avez des questions, nous vous invitons à contacter votre gestionnaire du succès client ou votre gestionnaire de compte.
 
-## [!DNL Livefyre] Questions fréquentes sur la fin de service {#livefyre-eos-faq}
+## Questions fréquentes sur la fin de service de [!DNL Livefyre] {#livefyre-eos-faq}
 
-### **_En quoi consiste la modification de [!DNL Livefyre]?_**
+### **_Quelles sont les modifications à venir pour [!DNL Livefyre] ?_**
 
-Dans les communications précédentes, l&#39;Adobe a annoncé que la dynamique changeante avec les fournisseurs de médias sociaux, y compris [!DNL Facebook] et [!DNL Twitter], ont rendu difficile la poursuite de l’offre à nos clients d’une solution UGC robuste. En raison de ces défis, l&#39;Adobe a pris la difficile décision de mettre fin à la [!DNL Livefyre] service.
+Dans les communications précédentes, Adobe a annoncé que la dynamique fluctuante avec les fournisseurs de médias sociaux, notamment [!DNL Facebook] et [!DNL Twitter], a compliqué la poursuite de l’offre d’une solution robuste de contenu créé par l’utilisateur à nos clients. En raison de ces difficultés, Adobe a pris la difficile décision de mettre fin au service de [!DNL Livefyre].
 
-### **_Puis-je toujours renouveler mon [!DNL Livefyre] licence ?_**
+### **_Puis-je toujours renouveler ma licence [!DNL Livefyre] ?_**
 
-Non, Livefyre prendra fin le 30 novembre 2021. Adobe recommande des solutions alternatives et travaille en étroite collaboration avec les clients sur une transition en douceur.
+Non, Livefyre prendra fin le 30 novembre 2021. Adobe recommande des solutions alternatives et travaille en étroite collaboration avec les clients sur une transition en douceur.
 
-### **_Qui puis-je contacter pour en savoir plus ?_**
+### **_Qui puis-je contacter pour en savoir plus ?_**
 
-Contactez votre CSM (responsable du succès client) ou Shelly Chiang (schiang@adobe.com) pour toute question.
+Contactez votre responsable du succès client (CSM) ou Shelly Chiang (schiang@adobe.com) pour toute question.
