@@ -1,8 +1,8 @@
 ---
 source-git-commit: eb20d5194b79b713249ae97556c67c926cc4356d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 # Contribution
@@ -18,7 +18,7 @@ Ce projet respecte le [Code de conduite](code-of-conduct.md) d’Adobe. En parti
 
 ## Documentation du guide du contributeur
 
-Consultez le [Guide du contributeur](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Consultez le [Guide du contributeur](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=fr).
 
 ## Une question ?
 
@@ -32,7 +32,7 @@ vous pouvez continuer.
 
 ## Examens du code
 
-Tous les envois doivent se présenter sous la forme de demandes d’extraction et doivent être examinés par les responsables de projet. Lisez la [documentation sur les demandes d’extraction GitHub](https://help.github.com/articles/about-pull-requests/)
+Tous les envois doivent se présenter sous la forme de demandes d’extraction et doivent être examinés par les responsables de projet. Lisez la [documentation sur les demandes d’extraction GitHub](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 pour en savoir plus sur l’envoi de demandes d’extraction.
 
 <!--
