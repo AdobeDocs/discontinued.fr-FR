@@ -4,9 +4,9 @@ title: « FAQ sur la fin de [!DNL Device Co-op] »
 description: Découvrez les programmes de fin de vie de Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1138'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -102,7 +102,7 @@ L’adoption d’autres fonctionnalités n’est pas obligatoire. Elle est uniqu
 
 Cela dépend de la fonctionnalité. Par exemple, si un client Analytics Ultimate qui utilise Analytics sur l’ensemble des appareils avec [!DNL Device Co-op] doit migrer vers Graphique de périphérique privé en temps réel ou vers le regroupement basé sur les champs, l’adoption prendra du temps.
 
-## Qu’en est-il de la variable [!UICONTROL Personnes] mesure ?
+## Qu’en est-il de la mesure [!UICONTROL Personnes] ?
 
-Avec l’abandon de la fonction [!DNL Device Co-op], la variable [!UICONTROL Personnes] n’est plus pertinente. Dans un avenir proche (date à déterminer), nous supprimerons la variable [!UICONTROL Personnes] mesure. À ce stade, nous redirigerons ses données vers la variable [!UICONTROL Visiteur unique] dans Analytics afin d’éviter que les projets, les segments et les mesures calculées ne soient interrompus.
+Avec l’abandon de [!DNL Device Co-op], la mesure [!UICONTROL Personnes] n’est plus pertinente. Dans un avenir proche (date à déterminer), nous supprimerons la mesure [!UICONTROL Personnes]. À ce stade, nous redirigerons ses données vers la mesure [!UICONTROL Visiteur unique] dans Analytics pour éviter que les projets, les segments et les mesures calculées ne soient interrompus.
 
