@@ -4,9 +4,9 @@ title: « FAQ sur la fin de [!DNL Device Co-op] »
 description: Découvrez les programmes de fin de vie de Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1134'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -104,5 +104,5 @@ Cela dépend de la fonctionnalité. Par exemple, si un client Analytics Ultimate
 
 ## Qu’en est-il de la mesure [!UICONTROL Personnes] ?
 
-Avec l’abandon de [!DNL Device Co-op], la mesure [!UICONTROL Personnes] n’est plus pertinente. Le 8 mai 2023, nous supprimerons la variable [!UICONTROL Personnes] mesure. À ce stade, nous redirigerons ses données vers la mesure [!UICONTROL Visiteur unique] dans Analytics pour éviter que les projets, les segments et les mesures calculées ne soient interrompus.
+Avec l’abandon de [!DNL Device Co-op], la mesure [!UICONTROL Personnes] n’est plus pertinente. Le 8 mai 2023, nous supprimerons la mesure [!UICONTROL Personnes]. À ce stade, nous redirigerons ses données vers la mesure [!UICONTROL Visiteur unique] dans Analytics pour éviter que les projets, les segments et les mesures calculées ne soient interrompus.
 
