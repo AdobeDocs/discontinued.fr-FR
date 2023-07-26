@@ -3,7 +3,7 @@ title: Présentation des produits  [!DNL Adobe Experience Cloud]  obsolètes
 description: Présentation des produits obsolètes, retirés ou en fin de vie pour  [!DNL Adobe Experience Cloud]  et  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
 source-git-commit: f13d308f4a29992bbaf3c5f84b2fa4da8c047cfd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
