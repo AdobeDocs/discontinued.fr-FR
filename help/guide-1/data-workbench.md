@@ -1,13 +1,13 @@
 ---
 title: « Fin de vie de [!DNL Data Workbench] »
 description: Ce document traite des questions fréquentes relatives à la fin de vie de  [!DNL Data Workbench].
-source-git-commit: e1e9afda7c64a1343d533d0c200296efbe7872e8
+exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
+source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
 workflow-type: ht
 source-wordcount: '380'
 ht-degree: 100%
 
 ---
-
 
 # Questions fréquentes sur la fin de vie de Data Workbench
 
