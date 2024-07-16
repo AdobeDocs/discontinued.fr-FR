@@ -3,8 +3,8 @@ title: Questions fréquentes sur la fin de vie d’Adobe Mobile Services
 description: Obtenez des réponses aux questions courantes concernant l’annonce de fin de vie d’Adobe Mobile Services.
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
 source-git-commit: 343e0a727c570c9eec503d7903d0477134fc6189
-workflow-type: ht
-source-wordcount: '421'
+workflow-type: tm+mt
+source-wordcount: '396'
 ht-degree: 100%
 
 ---
