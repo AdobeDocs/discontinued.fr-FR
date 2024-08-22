@@ -1,17 +1,17 @@
 ---
-title: Gestionnaire de canaux pour l’extension Adobe Commerce
-description: Découvrez quand l’extension Channel Manager pour Adobe Commerce a atteint la fin de vie.
+title: Extension Gestionnaire de canaux pour Adobe Commerce
+description: Découvrez quand l’extension Gestionnaire de canaux pour Adobe Commerce atteint sa fin de vie.
 source-git-commit: 08c3b323fcff5630b5165946508689c5556e54b5
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Gestionnaire de canaux pour l’extension Adobe Commerce
+# Extension Gestionnaire de canaux pour Adobe Commerce
 
-À compter du 1er juillet 2024, Adobe a interrompu l’extension Channel Manager et son intégration à Walmart Marketplace. L’extension Channel Manager n’est plus disponible via Adobe Commerce Marketplace.
+Le 1er juillet 2024, Adobe a interrompu l’extension Gestionnaire de canaux et son intégration à Walmart Marketplace. L’extension Gestionnaire de canaux n’est plus disponible via Adobe Commerce Marketplace.
 
-Pour d’autres solutions, nous vous recommandons d’explorer les solutions partenaires et les extensions tierces disponibles sur [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/) afin de trouver la solution qui répond le mieux à vos besoins.
+Pour d’autres solutions, nous vous recommandons d’explorer les solutions partenaires et les extensions tierces disponibles dans [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/) afin de trouver la solution qui répond le mieux à vos besoins.
 
