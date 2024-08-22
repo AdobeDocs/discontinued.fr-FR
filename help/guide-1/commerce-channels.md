@@ -2,7 +2,7 @@
 title: Extension Gestionnaire de canaux pour Adobe Commerce
 description: Découvrez quand l’extension Gestionnaire de canaux pour Adobe Commerce atteint sa fin de vie.
 source-git-commit: 08c3b323fcff5630b5165946508689c5556e54b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
