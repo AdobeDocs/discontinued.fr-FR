@@ -1,5 +1,5 @@
 ---
-source-git-commit: 5247c1f1c0c14219d0a4d6aee07d1b583778c59f
+source-git-commit: 587895ca37039d8bd29eb0cf8af2867003001131
 workflow-type: ht
 source-wordcount: '403'
 ht-degree: 100%
@@ -8,7 +8,6 @@ ht-degree: 100%
 # Article de contribution
 
 Nous acceptons les contributions de notre communauté ainsi que des personnes membres du personnel d’Adobe qui ne font pas partie des équipes de documentation.
-
 
 ## Code de conduite Adobe Open Source
 
