@@ -2,9 +2,9 @@
 title: Présentation des produits  [!DNL Adobe Experience Cloud]  obsolètes
 description: Présentation des produits obsolètes, retirés ou en fin de vie pour  [!DNL Adobe Experience Cloud]  et  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: e9f709eb76e4a00bb6d438dd5505c160e064e407
+source-git-commit: 3019dde6f05912926a1630f486fbe4c358ccf4ce
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '111'
 ht-degree: 100%
 
 ---
@@ -15,15 +15,18 @@ Adobe interrompt parfois la vente ou le développement d’un produit ou d’une
 
 ## Liste des produits obsolètes
 
-* [[!DNL Device Co-op]](device-co-op.md)
+* [[!DNL Channels for Adobe Commerce]](commerce-channels.md)
+* [[!DNL Data Connectors]](data-connectors.md)
 * [[!DNL Data Workbench]](data-workbench.md)
+* [[!DNL Device Co-op]](device-co-op.md)
+* [[!DNL Experience Cloud Library]](experience-cloud-library.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
-* [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html?lang=fr){target="_blank"}
+* [[!DNL Mobile Services]](mobile-services.md)
 * [[!DNL Reports & Analytics]](reports-and-analytics.md)
 * [[!DNL Search&Promote]](search-promote.md)
 * [[!DNL Social]](social.md)
-* [[!DNL Experience Cloud Library]](experience-cloud-library.md)
+* [[!DNL Store Fulfillment for Adobe Commerce]](commerce-store-fulfillment.md)
 
 <!--
 ## Notifications of upcoming products to be discontinued
