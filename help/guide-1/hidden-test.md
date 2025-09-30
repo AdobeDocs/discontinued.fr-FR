@@ -4,16 +4,16 @@ description: Il s’agit d’un test masqué
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 6d5ca49ae613ba51468a4e1a7766dc92992ead08
+source-git-commit: 32514db7ecdf26a4aea9270b776b3c6e2fe0e354
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
 
 # Test caché
 
-Il s’agit d’un test masqué.
+Il s’agit d’un test masqué.  Il ne devrait pas apparaître.
 
 
 ## Test de texte avec pointage
