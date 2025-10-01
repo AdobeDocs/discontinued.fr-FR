@@ -2,10 +2,10 @@
 user-guide-title: Produits abandonnés pour  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Produits abandonnés
 user-guide-description: Liste des produits abandonnés pour  [!DNL Adobe Experience Cloud].
-source-git-commit: b0413181849b60169cac898c955d9e6f97f973dd
+source-git-commit: 9263001ad078412e2560137c989e5cc19b6e466a
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 62%
+source-wordcount: '51'
+ht-degree: 66%
 
 ---
 
@@ -29,4 +29,3 @@ ht-degree: 62%
 + Section masquée {#hidden-section}
    + [Fichier caché 1](hidden-section-1.md)
    + [Fichier caché 2](hidden-section-2.md)
-   + [Fichier caché 3](hidden-section-3.md)
