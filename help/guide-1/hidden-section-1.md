@@ -1,9 +1,9 @@
 ---
 title: Test de la section 1 masqué
 description: Il s’agit d’un test masqué 1
-hide: true
+hide: false
 hidefromtoc: true
-source-git-commit: 2bab1618c570e3b50d9aa51ca7eaf6019188f76b
+source-git-commit: 82c1c7d9eca18ec8291647141124406828f15ce7
 workflow-type: tm+mt
 source-wordcount: '17'
 ht-degree: 0%
