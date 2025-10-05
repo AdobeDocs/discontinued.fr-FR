@@ -6,9 +6,10 @@ type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/discontinued.fr-FR
 index: true
-source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: ht
-source-wordcount: '63'
+debug: true
+source-git-commit: 60cc7ec7ee60464dba436e4c62721fdc6bbd4d48
+workflow-type: tm+mt
+source-wordcount: '53'
 ht-degree: 100%
 
 ---
