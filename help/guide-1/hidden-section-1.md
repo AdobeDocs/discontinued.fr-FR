@@ -15,6 +15,6 @@ ht-degree: 0%
 Test masqué 1
 Test : vérifiez que cette modification est appliquée à tous les référentiels Lang.
 
-# Titre masqué
+&#x200B;# Titre masqué
 
 Validation des majuscules
