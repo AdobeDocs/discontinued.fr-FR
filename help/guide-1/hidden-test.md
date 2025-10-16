@@ -6,7 +6,7 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 2a8496ce4d4e1de2130cb291f54a364e65efdf61
+source-git-commit: c0d3e777a9cf53e2877eee7c782e2eec9808ebd8
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Il s’agit d’un test masqué.  Il ne doit pas apparaître dans la recherche.
 
 Bob était là pour la démonstration du sprint, et encore une fois après que Lakshay a lancé la production de l&#39;étape...
 
-15 octobre
+16 octobre
 
 ## Test de texte avec pointage
 
