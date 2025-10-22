@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: cbb5014b55d1e2af43f7c729b4714499c953b154
+source-git-commit: 1db1adaee009bf29b847f7d7b7c7e6f8e906cbf2
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Il s’agit d’un test masqué.  Il ne doit pas apparaître dans la recherche.
 
 Bob était là pour la démonstration du sprint, et encore une fois après que Lakshay a lancé la production de l&#39;étape...
 
-Le 22 octobre , Bob et Sarika sont ici
+Le 22 octobre , Bob et Sarika sont de nouveau là !
 
 ## Test de texte avec pointage {#this-is-a-heading-anchor}
 
