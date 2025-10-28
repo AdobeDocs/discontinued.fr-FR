@@ -3,9 +3,9 @@ title: Test de la section 1 masqué
 description: Il s’agit d’un test masqué 1
 hide: true
 hidefromtoc: true
-source-git-commit: b1645237c94cfe492e38ac0321e7ee754863274a
+source-git-commit: 2c0401600ca4efd20a5dfb12cdeb1522d1b61933
 workflow-type: tm+mt
-source-wordcount: '27'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
@@ -14,3 +14,5 @@ ht-degree: 0%
 
 Test masqué 1
 Test : vérifiez que cette modification est appliquée à tous les référentiels Lang.
+
+Matt était là
