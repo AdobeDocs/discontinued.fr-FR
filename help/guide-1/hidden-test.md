@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: c8b449fadd96b59ed78668fd557bc4f1853820d3
+source-git-commit: 19ea79fc93e7d47d09dd8d96189578ef56c82314
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '94'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ Bob était ici pour la démonstration du sprint, et encore une fois après que L
 
 Matt était ici - le 28 octobre.
 
-29 octobre 2025 - Bob et Sarika sont ici encore et encore !
+Notification Slack ? 30 octobre.
 
 ## Liens relatifs
 
