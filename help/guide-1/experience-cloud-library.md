@@ -15,6 +15,6 @@ Depuis mars 2020, Adobe a officiellement abandonné la bibliothèque Adobe Exp
 
 **Fonctionnalités connexes**
 
-* [Ressources Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html){target=_blank}
+* [Ressources Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html?lang=fr){target=_blank}
 * [AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=fr){target=_blank}
 
