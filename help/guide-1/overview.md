@@ -2,7 +2,7 @@
 title: Présentation des produits  [!DNL Adobe Experience Cloud]  obsolètes
 description: Présentation des produits obsolètes, retirés ou en fin de vie pour  [!DNL Adobe Experience Cloud]  et  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: eaa11af117d56f5d5ad875356b99c8e98737017e
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -53,4 +53,3 @@ Adobe interrompt parfois la vente ou le développement d’un produit ou d’une
 >[!MORELIKETHIS]
 >
 >Pour obtenir la liste des autres applications et services d’Adobe abandonnés, voir [Produits gratuits et abandonnés | Options de prise en charge](https://helpx.adobe.com/fr/support/programs/support-options-free-discontinued-apps-services.html).
-

@@ -3,8 +3,8 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Questions fréquentes sur la fin de vie de [!DNL Device Co-op]
 description: Découvrez les programmes de fin de vie de Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: f259a6d2bac47e9cf3a829017642119357208c7c
-workflow-type: ht
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+workflow-type: tm+mt
 source-wordcount: '1053'
 ht-degree: 100%
 
@@ -105,4 +105,3 @@ Cela dépend de la fonctionnalité. Par exemple, si un client Analytics Ultimate
 ## Qu’en est-il de la mesure [!UICONTROL Personnes] ?
 
 Avec l’abandon de [!DNL Device Co-op], la mesure [!UICONTROL Personnes] n’est plus pertinente. Le 8 mai 2023, nous supprimerons la mesure [!UICONTROL Personnes]. À ce stade, nous redirigerons ses données vers la mesure [!UICONTROL Visiteur unique] dans Analytics pour éviter que les projets, les segments et les mesures calculées ne soient interrompus.
-
