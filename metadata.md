@@ -5,9 +5,10 @@ product: experience cloud
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/discontinued.fr-FR
+auto-video-transcripts: true
 index: true
 debug: true
-source-git-commit: 60cc7ec7ee60464dba436e4c62721fdc6bbd4d48
+source-git-commit: 35d7557ad762a71fe4ef84a18d1081ca4a7d3bfa
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%

@@ -1,11 +1,12 @@
 ---
 title: Test de la section 1 masqué
 description: Il s’agit d’un test masqué 1
+auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 78fd2d5e219c4acf0199d5bb527a3b5c3561def2
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
@@ -18,3 +19,10 @@ Test : vérifiez que cette modification est appliquée à tous les référentiel
 
 Matt était là
 
+## Pas de relevé de notes
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+
+## Transcription vraie
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
