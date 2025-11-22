@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 landing-page-breadcrumb-title: Test Analytics
 landing-page-name: analytics
-source-git-commit: a7d0ed1174fb31600f25636f6036b45faa2ed8d8
+source-git-commit: 3b2e2491a789e1d0d4509173999fef52499bf9a7
 workflow-type: tm+mt
 source-wordcount: '21'
 ht-degree: 0%
@@ -18,8 +18,8 @@ Test caché 2
 
 ## Pas de relevé de notes
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Transcription vraie
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
