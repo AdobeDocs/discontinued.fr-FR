@@ -18,8 +18,8 @@ Test caché 2 novembre 24
 
 ## Pas de relevé de notes
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=false}
 
 ## Transcription vraie
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=true}
