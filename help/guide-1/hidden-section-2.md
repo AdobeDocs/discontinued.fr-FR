@@ -5,21 +5,21 @@ hide: true
 hidefromtoc: true
 landing-page-breadcrumb-title: Test Analytics
 landing-page-name: analytics
-source-git-commit: 3b2e2491a789e1d0d4509173999fef52499bf9a7
+source-git-commit: 8856ccadd66b40c682be08e8faa274c00d459e06
 workflow-type: tm+mt
-source-wordcount: '21'
+source-wordcount: '23'
 ht-degree: 0%
 
 ---
 
 # Test de section masqué 2
 
-Test caché 2
+Test caché 2 novembre 24
 
 ## Pas de relevé de notes
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Transcription vraie
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
