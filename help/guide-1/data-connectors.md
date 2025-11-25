@@ -2,16 +2,16 @@
 description: Obtenez des informations sur l’interruption des intégrations d’Adobe Analytics Data Connectors.
 title: Fin de vie des intégrations d’Analytics Data Connectors
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 37c91c7a347feb988d535eec0dfc2ec6ba94ddd3
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # Fin de vie des intégrations d’Adobe Data Connectors
 
-**Depuis le 19 août 2021**, Adobe a interrompu les intégrations de Data Connectors et les a remplacées par la fonction [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product). Adobe a l’intention de rendre la transition aussi transparente que possible pour la clientèle et les partenaires.
+**Depuis le 19 août 2021**, Adobe a interrompu les intégrations de Data Connectors et les a remplacées par la fonction [Adobe Exchange Marketplace](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE). Adobe a l’intention de rendre la transition aussi transparente que possible pour la clientèle et les partenaires.
 
 Adobe Analytics vise à fournir les analyses web et marketing les plus performantes pour répondre aux besoins des clientes et clients. Au fur et à mesure que les besoins technologiques et commerciaux évoluent, Adobe s’efforce de fournir et de satisfaire continuellement les normes les plus élevées. Les API qui font fonctionner les intégrations Data Connectors ne répondent plus à ces normes et ne sont plus tenables dans l’infrastructure technologique moderne d’Adobe.
 
@@ -19,7 +19,7 @@ Notez que cette annonce de fin de vie ne s’applique pas aux connecteurs source
 
 ## Pourquoi cette fonctionnalité a-t-elle été mise en fin de vie par Adobe ?
 
-Cette fonctionnalité a été alimentée par une technologie ancienne qui n’est plus viable ni prise en charge. [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product) est désormais le lieu où trouver les intégrations actuelles pour les solutions Adobe.
+Cette fonctionnalité a été alimentée par une technologie ancienne qui n’est plus viable ni prise en charge. [Adobe Exchange Marketplace](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE) est désormais le lieu où trouver les intégrations actuelles pour les solutions Adobe.
 
 ## En quoi la suppression de cette fonctionnalité vous affecte-t-elle ?
 
