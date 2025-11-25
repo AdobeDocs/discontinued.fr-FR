@@ -4,7 +4,7 @@ description: Il s’agit d’un test masqué 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: 9150b1804e1832d0f08320739c9dc4919ffea6a3
+source-git-commit: bc2e4de9631fd091c6438c59ab51b1dbad607531
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -12,7 +12,6 @@ ht-degree: 0%
 ---
 
 # Test de section masquée 1
-
 
 24 Novembre 2025
 
@@ -52,8 +51,8 @@ Matt était là
 
 ## Pas de relevé de notes
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcription vraie
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
