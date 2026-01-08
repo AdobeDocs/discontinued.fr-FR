@@ -8,8 +8,8 @@ git-repo: https://github.com/AdobeDocs/discontinued.fr-FR
 auto-video-transcripts: true
 index: true
 debug: true
-author: everyone
-source-git-commit: 7a3e461e6d19eefbfd54a7f5f5d51e82fb3739fe
+author: various
+source-git-commit: da88987d86343e1285387bce1d323ea0a49bd66f
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
