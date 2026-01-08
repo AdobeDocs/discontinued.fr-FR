@@ -7,16 +7,16 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: aea0c9a349edb53c36f4b878d9e41447ca118242
+source-git-commit: b22201b34762b11d4a8cdd4b80e9be2b950d311f
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Test caché
 
-2 décembre
+8 janvier
 
 Il s’agit d’un test masqué. J’ajoute ce `[` pour m’assurer qu’il fonctionne correctement dans le rendu v2.
 
@@ -123,7 +123,7 @@ Pas de texte de pointage
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![texte secondaire](assets/maui-flip.jpg)
+![texte alternatif](assets/maui-flip.jpg)
 
 
 Oui, survoler le texte
@@ -136,7 +136,7 @@ Oui, survoler le texte
 
 ## Diapositive
 
-Syntaxe :
+Syntaxe :
 
 ```
 >[!SLIDE](analyze-project)
