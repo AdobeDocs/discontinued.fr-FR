@@ -13,7 +13,7 @@ ht-degree: 0%
 
 >[!WARNING]
 >
->Le graphique d’appareil dans les analyses entre appareils n’est plus disponible à compter du **31 décembre 2025**. Veuillez basculer n’importe quelle suite de rapports virtuelle actuellement activée pour les graphiques d’appareils vers la méthode [ basée sur les champs](https://experienceleague.adobe.com/en/docs/analytics/components/cda/field-based-stitching).
+>Le graphique d’appareil dans les analyses entre appareils n’est plus disponible à compter du **31 décembre 2025**. Veuillez basculer n’importe quelle suite de rapports virtuelle actuellement activée pour les graphiques d’appareils vers la méthode [&#x200B; basée sur les champs](https://experienceleague.adobe.com/en/docs/analytics/components/cda/field-based-stitching).
 
 Analytics sur l’ensemble des appareils a utilisé le graphique privé pour regrouper les données. Le graphique privé est un référentiel d’identifiants d’appareil hachés, spécifique à votre organisation. Analytics sur l’ensemble des appareils communique régulièrement avec le graphique des appareils pour lier les appareils.
 
