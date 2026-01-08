@@ -2,7 +2,7 @@
 user-guide-title: Produits abandonnés pour  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Produits abandonnés
 user-guide-description: Liste des produits abandonnés pour  [!DNL Adobe Experience Cloud]
-source-git-commit: 8eb82ca4e8e4585ddc2edbba0de486c700a465bc
+source-git-commit: d246aa050c2e8304709fadaddf93a6b70a661b82
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 78%
@@ -26,4 +26,4 @@ ht-degree: 78%
 + [Search&amp;Promote](search-promote.md)
 + [Social](social.md)
 + [Traitement des commandes en magasin pour Adobe Commerce](commerce-store-fulfillment.md)
-+ [Test masqué - Janvier](hidden-test.md)
++ [Test masqué - Janvier](/help/guide-1/hidden-test.md)
