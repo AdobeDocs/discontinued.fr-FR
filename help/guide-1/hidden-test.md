@@ -7,38 +7,38 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: aea0c9a349edb53c36f4b878d9e41447ca118242
+source-git-commit: b22201b34762b11d4a8cdd4b80e9be2b950d311f
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Test caché
 
-2 décembre
+8 janvier
 
 Il s’agit d’un test masqué. J’ajoute ce `[` pour m’assurer qu’il fonctionne correctement dans le rendu v2.
 
 ## Ouvrir dans un nouvel onglet {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Ouvrir dans le même onglet](auditor.md)
 
-[Nouvel onglet avec espace et guillemets](auditor.md){target="_blank"} 
+[Nouvel onglet avec espace et guillemets](auditor.md) {target="_blank"}
 
 [Nouvel onglet avec ancre](auditor.md){target=« _blank}
 
 [Nouvel onglet sans espace avec guillemets](auditor.md){target="_blank"}
 
-[Nouvel onglet sans guillemets](auditor.md){target=_blank} 
+[Nouvel onglet sans guillemets](auditor.md) {target=_blank}
 
 [Nouvel onglet sans espace sans guillemets](auditor.md){target=_blank}
 
 [Nouvel onglet avec lien profond](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Ancrer le nouvel onglet avec le lien profond](https://experienceleague.adobe.com/fr/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Ancrer le nouvel onglet avec le lien profond](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nouvel onglet avec lien externe](https://www.adobe.com){target="_blank"}
 
@@ -93,15 +93,15 @@ Cette ligne se trouve après le commentaire.
 
 ### Vidéo simple sans transcription : doit afficher la transcription, car metadata.md est distribué.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Avec le relevé de notes défini sur true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Lorsque la transcription est définie sur false, la transcription vidéo ne doit pas s’afficher
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Liens relatifs
 
@@ -123,7 +123,7 @@ Pas de texte de pointage
 ![alt text](assets/maui-flip.jpg)
 ```
 
-![texte secondaire](assets/maui-flip.jpg)
+![texte alternatif](assets/maui-flip.jpg)
 
 
 Oui, survoler le texte
@@ -136,7 +136,7 @@ Oui, survoler le texte
 
 ## Diapositive
 
-Syntaxe :
+Syntaxe :
 
 ```
 >[!SLIDE](analyze-project)
