@@ -4,16 +4,17 @@ description: Il s’agit d’un test masqué 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: bc2e4de9631fd091c6438c59ab51b1dbad607531
+hold: true
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 3%
 
 ---
 
 # Test de section masquée 1
 
-24 Novembre 2025
+3 Février 2026
 
 1. Aller ici
 
