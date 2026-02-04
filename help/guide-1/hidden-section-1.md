@@ -5,7 +5,7 @@ auto-video-transcripts: false
 hide: true
 hidefromtoc: true
 hold: true
-source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
+source-git-commit: d0d9f9e59e9186c39307a3e2a6695de89aadab05
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 3%
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 # Test de section masquée 1
 
-3 Février 2026
+4 Février 2026
 
 1. Aller ici
 
@@ -52,8 +52,8 @@ Matt était là
 
 ## Pas de relevé de notes
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcription vraie
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
