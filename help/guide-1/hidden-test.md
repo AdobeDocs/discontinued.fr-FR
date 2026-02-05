@@ -40,7 +40,7 @@ Il s’agit d’un test masqué. J’ajoute ce `[` pour m’assurer qu’il fonc
 
 [Nouvel onglet avec lien profond](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Ancrer le nouvel onglet avec le lien profond](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Ancrer le nouvel onglet avec le lien profond](https://experienceleague.adobe.com/fr/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nouvel onglet avec lien externe](https://www.adobe.com){target="_blank"}
 
