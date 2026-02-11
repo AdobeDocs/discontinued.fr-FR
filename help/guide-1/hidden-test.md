@@ -97,15 +97,15 @@ Cette ligne se trouve après le commentaire.
 
 ### Vidéo simple sans transcription : doit afficher la transcription, car metadata.md est distribué.
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true)
 
 ### Avec le relevé de notes défini sur true
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=true}
 
 ### Lorsque la transcription est définie sur false, la transcription vidéo ne doit pas s’afficher
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=false}
 
 ## Liens relatifs
 
