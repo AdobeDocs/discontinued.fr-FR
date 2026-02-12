@@ -2,7 +2,8 @@
 title: Traitement des commandes en magasin pour Adobe Commerce
 description: Découvrez quand la Store Fulfillment pour les extensions Adobe Commerce a atteint sa fin de vie.
 exl-id: 15a36e9c-3480-436b-8315-5fdedcf5b3dd
-source-git-commit: d0d9f9e59e9186c39307a3e2a6695de89aadab05
+hidefromtco: true
+source-git-commit: 2fb64e3247206e7b27570571a0f73fba485117bd
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 40%
