@@ -5,7 +5,7 @@ auto-video-transcripts: false
 hide: true
 hidefromtoc: true
 hold: true
-source-git-commit: d0d9f9e59e9186c39307a3e2a6695de89aadab05
+source-git-commit: d6a0342750804a56c686c966801c411090b9672a
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 3%
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 # Test de section masquée 1
 
-4 Février 2026
+26 Février 2026
 
 1. Aller ici
 
