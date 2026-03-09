@@ -5,7 +5,7 @@ hide: true
 source-git-commit: da2346fe84caa8fad3687d59357eab69de654425
 workflow-type: tm+mt
 source-wordcount: '13'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Image
 
-![image](assets/maui-flip.jpg)
+![Image](assets/maui-flip.jpg)
