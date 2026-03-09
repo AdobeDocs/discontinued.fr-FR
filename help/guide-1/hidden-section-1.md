@@ -3,9 +3,7 @@ title: Test de la section 1 masqué
 description: Il s’agit d’un test masqué 1
 auto-video-transcripts: false
 hide: true
-hidefromtoc: true
-hold: true
-source-git-commit: 89758ac0005261dbe337b88dbce4eae9edaedd1f
+source-git-commit: 5ed891ab8d3b4100cb7bf9d887e2b545ec4626f4
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 3%
@@ -52,8 +50,8 @@ Matt était là
 
 ## Pas de relevé de notes
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcription vraie
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
