@@ -27,17 +27,17 @@ Il s’agit d’un test masqué. J’ajoute ce `[` pour m’assurer qu’il fonc
 
 ## Ouvrir dans un nouvel onglet {#section_92882928}
 
-`[See What's new](auditor.md) {target="_blank"}`
+`[See What's new](auditor.md){target="_blank"} `
 
 [Ouvrir dans le même onglet](auditor.md)
 
-[Nouvel onglet avec espace et guillemets](auditor.md) {target="_blank"}
+[Nouvel onglet avec espace et guillemets](auditor.md){target="_blank"} 
 
 [Nouvel onglet avec ancre](auditor.md){target=« _blank}
 
 [Nouvel onglet sans espace avec guillemets](auditor.md){target="_blank"}
 
-[Nouvel onglet sans guillemets](auditor.md) {target=_blank}
+[Nouvel onglet sans guillemets](auditor.md){target=_blank} 
 
 [Nouvel onglet sans espace sans guillemets](auditor.md){target=_blank}
 
