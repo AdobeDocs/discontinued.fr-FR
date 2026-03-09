@@ -8,7 +8,7 @@ landing-page-name: analytics
 source-git-commit: aed53029027389bf0494166cd7c32d5145cd7251
 workflow-type: tm+mt
 source-wordcount: '23'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 Test caché 2
 
-24 novembre
+Novembre 24
 
 ## Pas de relevé de notes
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Transcription vraie
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
