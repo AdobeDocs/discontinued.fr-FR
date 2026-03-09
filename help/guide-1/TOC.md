@@ -26,5 +26,5 @@ ht-degree: 64%
 + [Search&amp;Promote](/help/guide-1/search-promote.md)
 + [Social](/help/guide-1/social.md)
 + [Traitement des commandes en magasin pour Adobe Commerce](/help/guide-1/commerce-store-fulfillment.md)
-+ [hide-from-tocTest masqué - Février](/help/guide-1/hidden-test.md)
-+ [hide-from-tocTest masqué - nouveau](hidden-section-1.md)
++ {hide-from-toc}[Test masqué - Février](/help/guide-1/hidden-test.md)
++ {hide-from-toc}[Test masqué - nouveau](hidden-section-1.md)
