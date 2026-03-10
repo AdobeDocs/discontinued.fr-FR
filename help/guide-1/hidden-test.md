@@ -8,16 +8,16 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
+source-git-commit: 27c6d4270e5a27cc4a95e28625c3f20997f87646
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '235'
 ht-degree: 8%
 
 ---
 
 # Test caché
 
-10 mars 2026 - `hold: true` est le.
+10 mars 2026, 9 :25 - `hold: true` est le.
 
 Test d’une nouvelle clé
 

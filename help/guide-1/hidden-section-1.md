@@ -3,16 +3,16 @@ title: Test de la section 1 masqué
 description: Il s’agit d’un test masqué 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
+source-git-commit: 27c6d4270e5a27cc4a95e28625c3f20997f87646
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '71'
 ht-degree: 2%
 
 ---
 
 # Test de section masquée 1
 
-10 mars 2026 - Aucun `hold: true` pour cet article
+10 mars 2026, 9 :25 - Aucun `hold: true` pour cet article
 
 1. Aller ici
 
