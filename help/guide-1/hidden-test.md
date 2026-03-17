@@ -2,21 +2,20 @@
 title: Test caché
 description: Il s’agit d’un test masqué
 hide: true
-hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 7f84f2196a1a3a477c05f803eff3cc8eae6b0678
+source-git-commit: 0d0c957441babe95bad242da4b1249f8019615d1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 8%
 
 ---
 
 # Test caché
 
-10 mars 2026, 9 :25 - La `hold: true` est désactivée.
+17 mars 2026 - La `hold: true` est désactivée.
 
 Test d’une nouvelle clé
 
