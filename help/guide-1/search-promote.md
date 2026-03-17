@@ -2,7 +2,7 @@
 title: Annonce de fin de service d’[!DNL Adobe Search&Promote]
 description: En savoir plus sur l’annonce de fin de service d’ [!DNL Adobe Search&Promote] .
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: d53fd34daae5dd4141563732cf0458f0e2f2af91
+source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
@@ -36,3 +36,4 @@ Also, both [AWS](https://aws.amazon.com/cloudsearch/) and [Microsoft&reg; Azure]
 ### **_Qui puis-je contacter pour en savoir plus ?_**
 
 Contactez votre responsable du succès client pour toute question ou contactez l’équipe Adobe à l’adresse [searchquestions@adobe.com](mailto:searchquestions@adobe.com).
+
