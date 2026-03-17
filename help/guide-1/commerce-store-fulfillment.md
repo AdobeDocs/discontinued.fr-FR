@@ -3,10 +3,10 @@ title: Traitement des commandes en magasin pour Adobe Commerce
 description: Découvrez quand la Store Fulfillment pour les extensions Adobe Commerce a atteint sa fin de vie.
 exl-id: 15a36e9c-3480-436b-8315-5fdedcf5b3dd
 hidefromtco: true
-source-git-commit: 2fb64e3247206e7b27570571a0f73fba485117bd
+source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 40%
+source-wordcount: '97'
+ht-degree: 41%
 
 ---
 
@@ -18,5 +18,4 @@ Adobe a arrêté la solution Store Fulfillment pour Adobe Commerce :
 
 Depuis février 2024, Adobe a abandonné l’extension Store Fulfillment et son intégration au marché Walmart. L’extension Store Fulfillment n’est plus disponible via Adobe Commerce Marketplace.
 
-Afin de trouver la solution qui répond le mieux à vos besoins, Adobe vous recommande d’explorer les solutions partenaires et les extensions tierces disponibles dans [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/).
-
+Pour d’autres solutions, Adobe recommande d’explorer les solutions partenaires et les extensions tierces disponibles dans [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/) afin de trouver la solution qui répond le mieux à vos besoins.

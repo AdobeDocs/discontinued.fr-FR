@@ -3,16 +3,29 @@ title: Test de la section 1 masqué
 description: Il s’agit d’un test masqué 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: d53fd34daae5dd4141563732cf0458f0e2f2af91
+source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
 
 # Test de section masquée 1
 
-10 mars 2026, 9 :25 - Aucun `hold: true` pour cet article
+16 mars 2026 - Aucun `hold: true` pour cet article
+
+## Div. cibles
+
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+
+## Plus de tests
 
 1. Aller ici
 
@@ -54,8 +67,8 @@ Matt était là
 
 ## Pas de relevé de notes
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcription vraie
 
->[!VIDEO](https://video.tv.adobe.com/v/3409658?captions=fre_fr&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
