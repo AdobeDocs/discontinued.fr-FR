@@ -2,7 +2,7 @@
 keywords: Device-graph;fin de vie
 title: Graphique de l’appareil
 description: Découvrez les plans de fin de vie du graphique Appareil .
-source-git-commit: 6d27883347049957d35070dd5c5bf5b223144470
+source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 4%
@@ -34,3 +34,4 @@ Si vous aviez l’intention d’implémenter Analytics sur l’ensemble des appa
 * Les identifiants Analytics hérités ne sont pas pris en charge. Seuls les visiteurs possédant un Experience Cloud ID sont regroupés.
 * Si votre entreprise utilise un graphique privé, l’assemblage des nouveaux appareils peut prendre jusqu’à 24 heures.
 * les graphiques d’appareils tiers ne sont pas pris en charge.
+
