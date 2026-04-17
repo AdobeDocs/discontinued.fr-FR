@@ -1,13 +1,15 @@
 ---
 title: Page de test du workflow miroir
-description: Page de test pour la validation du contenu Markdown mis en miroir.
-source-git-commit: 9a324057d8e1459c24057d31d26e30420d85f043
+description: Mise à jour de la page de test pour la validation du contenu Markdown mis en miroir.
+source-git-commit: bf07c3f249ee71069637335f7965e03366cfa88e
 workflow-type: tm+mt
-source-wordcount: '23'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # Page de test du workflow miroir
 
-Il s&#39;agit d&#39;un fichier test Markdown avec frontMATTER.
+Ce fichier a été mis à jour pour vérifier que la mise en miroir sélectionne le contenu le plus récent du référentiel source.
+
+Si ce texte apparaît dans le référentiel public, le workflow de mise en miroir réutilisable utilise la version attendue.
