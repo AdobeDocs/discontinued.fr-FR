@@ -2,7 +2,7 @@
 keywords: Device-graph;fin de vie
 title: Graphique de l’appareil
 description: Découvrez les plans de fin de vie du graphique Appareil .
-source-git-commit: 9b3106c730542e531bab4d0f9851b0aeac0553a2
+source-git-commit: 972d090153630545e18ca192f64dfb198044d8ee
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 4%
