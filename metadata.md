@@ -6,7 +6,7 @@ product_v2:
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/discontinued.en
+git-repo: https://github.com/AdobeDocs/discontinued.fr-FR
 auto-video-transcripts: true
 index: true
 debug: yes
