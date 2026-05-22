@@ -2,9 +2,9 @@
 keywords: Device-graph;fin de vie
 title: Graphique de l’appareil
 description: Découvrez les plans de fin de vie du graphique Appareil .
-source-git-commit: 972d090153630545e18ca192f64dfb198044d8ee
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '331'
 ht-degree: 4%
 
 ---
@@ -26,12 +26,12 @@ Si vous aviez l’intention d’implémenter Analytics sur l’ensemble des appa
 >Si toutes les conditions préalables ne sont pas remplies, il peut être impossible d’activer Analytics sur l’ensemble des appareils ou le regroupement des données peut donner de mauvais résultats.
 
 * Votre organisation doit utiliser le [graphique privé du service d’identités &#x200B;](https://business.adobe.com/fr/products/experience-platform/identity-service.html). Consultez également la section [Page d’accueil](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=fr) dans le guide d’utilisation d’Identity Service.
-* Votre mise en œuvre doit utiliser la dernière version du service Experience Cloud ID (ECID). Voir [Page d’accueil](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr) dans le guide d’utilisation d’ID Service. Il est probable que le service d’ID soit déjà déployé pour la plupart des implémentations utilisant [Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr) dans Adobe Experience Platform.
+* Votre mise en œuvre doit utiliser la dernière version du service d’ID (ECID). Voir [Page d’accueil](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr) dans le guide d’utilisation d’ID Service. Il est probable que le service d’ID soit déjà déployé pour la plupart des implémentations utilisant [Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=fr) dans Adobe Experience Platform.
 * Votre implémentation doit appeler la fonction `setCustomerIDs` (ou l’équivalent SDK) chaque fois qu’un individu peut être identifié, par exemple lorsqu’un utilisateur se connecte ou ouvre un e-mail. Cette exigence s’applique à toutes les plateformes, y compris les applications mobiles si elles sont utilisées. Voir [`setCustomerIDs`](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=fr) dans le guide d’utilisation du service d’ID.
 
 ## Limites spécifiques au graphique de l’appareil
 
-* Les identifiants Analytics hérités ne sont pas pris en charge. Seuls les visiteurs possédant un Experience Cloud ID sont regroupés.
+* Les identifiants Analytics hérités ne sont pas pris en charge. Seuls les visiteurs disposant d’ECID sont regroupés.
 * Si votre entreprise utilise un graphique privé, l’assemblage des nouveaux appareils peut prendre jusqu’à 24 heures.
 * les graphiques d’appareils tiers ne sont pas pris en charge.
 
