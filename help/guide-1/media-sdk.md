@@ -98,13 +98,13 @@ Pour les implémentations d’applications mobiles, Experience Platform Tags n�
 
 +++**Cet abandon de la prise en charge a-t-il une incidence sur SDK pour tvOS ?**
 
-Oui. Pour tvOS (version 10+), il est recommandé de migrer vers Streaming Media pour Edge Network à l’aide de Adobe Experience Platform Mobile SDK. Pour plus d’informations, consultez [ Implémentation de Streaming Media à l’aide de Mobile Edge SDK ](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html).
+Oui. Pour tvOS (version 10+), il est recommandé de migrer vers Streaming Media pour Edge Network à l’aide de Adobe Experience Platform Mobile SDK. Pour plus d’informations, consultez [&#x200B; Implémentation de Streaming Media à l’aide de Mobile Edge SDK &#x200B;](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html).
 
 +++
 
 +++**Cet abandon de la prise en charge a-t-il une incidence sur SDK pour Fire TV et Android TV ?**
 
-Oui. Pour Fire TV et Android TV, il est recommandé de migrer vers Streaming Media pour Edge Network à l’aide de Adobe Experience Platform Mobile SDK. Pour plus d’informations, consultez [ Implémentation de Streaming Media à l’aide de Mobile Edge SDK ](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html).
+Oui. Pour Fire TV et Android TV, il est recommandé de migrer vers Streaming Media pour Edge Network à l’aide de Adobe Experience Platform Mobile SDK. Pour plus d’informations, consultez [&#x200B; Implémentation de Streaming Media à l’aide de Mobile Edge SDK &#x200B;](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html).
 
 +++
 
