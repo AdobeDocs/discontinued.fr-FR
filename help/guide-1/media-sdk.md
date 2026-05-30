@@ -59,7 +59,7 @@ Pour les nouvelles mises en œuvre ou lorsque vous souhaitez utiliser des donné
 
 * [SDK Web Media Edge](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html)
 * [SDK Media Edge Mobile](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
-* [API Media Edge](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html)
+* [API Media Edge](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html?lang=fr)
 
 ## Questions fréquentes
 
