@@ -2,7 +2,8 @@
 title: fin de vie [!DNL Adobe Experience Platform Auditor]
 description: Ce document concerne  [!DNL Adobe Experience Platform Auditor]  et ses versions ultérieures.
 exl-id: 326ae443-2974-4f0c-8c16-bfd2b8a6a70c
-source-git-commit: ead5fe8dbdd17a8f7fdec21bf5baeb3296b76fcb
+debug: true
+source-git-commit: 39808ed6dd5f60ef7443e8bfaa135a117a9ce00b
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 67%
