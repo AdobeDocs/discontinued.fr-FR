@@ -33,13 +33,13 @@ Il annule également l’**authentification WSSE d’** (voir [Authentification 
 
 ## Authentification WSSE
 
-L’authentification WSSE est un protocole d’authentification hérité pris en charge par les API Analytics 1.4. Il a été remplacé par les options d’authentification basées sur OAuth fournies dans [](https://developer.adobe.com/console/home). Les projets qui utilisaient l’authentification WSSE doivent mettre à jour leurs informations d’identification vers celles configurées dans le Adobe Developer Console.
+L’authentification WSSE est un protocole d’authentification hérité pris en charge par les API Analytics 1.4. Il a été remplacé par les options d’authentification basées sur OAuth fournies dans [&#128279;](https://developer.adobe.com/console/home). Les projets qui utilisaient l’authentification WSSE doivent mettre à jour leurs informations d’identification vers celles configurées dans le Adobe Developer Console.
 
-Pour migrer, connectez-vous à [](https://developer.adobe.com/console/home) et créez un projet pour votre intégration de l’API Analytics 2.0. Sélectionnez la méthode d’authentification **Utilisateur OAuth** ou **Serveur à serveur OAuth**.
+Pour migrer, connectez-vous à [&#128279;](https://developer.adobe.com/console/home) et créez un projet pour votre intégration de l’API Analytics 2.0. Sélectionnez la méthode d’authentification **Utilisateur OAuth** ou **Serveur à serveur OAuth**.
 
 ## API d’insertion de données
 
-L’API Data Insertion ne fait **pas** partie de cette fin de vie. Sa documentation a été déplacée vers le site [API de collecte de données ](https://developer.adobe.com/analytics-collection-apis/) avec les autres méthodes de collecte côté serveur :
+L’API Data Insertion ne fait **pas** partie de cette fin de vie. Sa documentation a été déplacée vers le site [API de collecte de données &#x200B;](https://developer.adobe.com/analytics-collection-apis/) avec les autres méthodes de collecte côté serveur :
 
 * [API Data Insertion](https://developer.adobe.com/analytics-collection-apis/methods/data-insertion/) : envoyez des données d’événement un accès à la fois, sous la forme d’une chaîne de requête (demande d’image) ou d’un `POST` XML.
 * [API Bulk Data Insertion](https://developer.adobe.com/analytics-collection-apis/methods/bulk-data-insertion/) : chargez des lots de données d’appels au serveur sous forme de fichiers. Adobe recommande d’utiliser l’API Bulk Data Insertion pour les nouvelles implémentations côté serveur.
