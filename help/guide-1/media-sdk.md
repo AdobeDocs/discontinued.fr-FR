@@ -57,7 +57,7 @@ Pour les nouvelles mises en œuvre ou lorsque vous souhaitez utiliser des donné
 
 * [SDK Web Media Edge](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html)
 * [SDK Media Edge Mobile](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
-* [API Media Edge](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html)
+* [API Media Edge](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html?lang=fr)
 
 ## Questions fréquentes
 
@@ -120,6 +120,6 @@ Contactez votre équipe de compte Adobe ou l’assistance clientèle Adobe pour 
 
 >[!MORELIKETHIS]
 >
->* [Présentation de l’implémentation de Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html)
->* [Streaming Media pour Edge Network](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html)
->* [Media SDK 3.x — Configuration de JavaScript](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html)
+>* [Présentation de l’implémentation de Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html?lang=fr)
+>* [Streaming Media pour Edge Network](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html?lang=fr)
+>* [Media SDK 3.x — Configuration de JavaScript](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html?lang=fr)
