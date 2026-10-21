@@ -41,7 +41,7 @@ Il s’agit d’un test masqué. J’ajoute ce `[` pour m’assurer qu’il fonc
 
 [Ancrer le nouvel onglet avec le lien profond](https://experienceleague.adobe.com/fr/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[Nouvel onglet avec lien externe](https://www.adobe.com){target="_blank"}
+[Nouvel onglet avec lien externe](https://www.adobe.com/fr){target="_blank"}
 
 [Nouveau lien racine de l’onglet](/help/guide-1/auditor.md){target="_blank"}
 
@@ -52,12 +52,12 @@ Il s’agit d’un test masqué. J’ajoute ce `[` pour m’assurer qu’il fonc
     <th>Sans guillemets</th>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com" target="_blank">Nouvel onglet Adobe</a></td>
-    <td><a href="https://www.adobe.com" target="_blank">Nouvel onglet Adobe</td>
+    <td><a href="https://www.adobe.com/fr" target="_blank">Nouvel onglet Adobe</a></td>
+    <td><a href="https://www.adobe.com/fr" target="_blank">Nouvel onglet Adobe</td>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com">Adobe : aucun nouvel onglet</a></td>
-    <td><a href="https://www.adobe.com">Adobe : aucun nouvel onglet</td>
+    <td><a href="https://www.adobe.com/fr">Adobe : aucun nouvel onglet</a></td>
+    <td><a href="https://www.adobe.com/fr">Adobe : aucun nouvel onglet</td>
   </tr>
 </table>
 
